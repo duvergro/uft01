@@ -7,6 +7,7 @@ WpfWindow("HP MyFlight Sample Application").WaitProperty "text", "HP MyFlight Sa
 'Comment
 'Commit 7
 'Commit 8
+'Commit 9
 WpfWindow("HP MyFlight Sample Application").WpfComboBox("fromCity").Select "Frankfurt" @@ hightlight id_;_2111813992_;_script infofile_;_ZIP::ssf9.xml_;_
 WpfWindow("HP MyFlight Sample Application").WpfComboBox("toCity").Select "Seattle" @@ hightlight id_;_2111814952_;_script infofile_;_ZIP::ssf13.xml_;_
 WpfWindow("HP MyFlight Sample Application").WpfComboBox("Class").Select "Business" @@ hightlight id_;_2111816248_;_script infofile_;_ZIP::ssf17.xml_;_

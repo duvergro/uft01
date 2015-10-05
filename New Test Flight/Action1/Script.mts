@@ -4,13 +4,6 @@ WpfWindow("HP MyFlight Sample Application").WpfEdit("password").SetSecure "560cf
 WpfWindow("HP MyFlight Sample Application").WpfButton("OK").Click @@ hightlight id_;_2111811592_;_script infofile_;_ZIP::ssf5.xml_;_
 
 WpfWindow("HP MyFlight Sample Application").WaitProperty "text", "HP MyFlight Sample Application", 10000 @@ hightlight id_;_393758_;_script infofile_;_ZIP::ssf32.xml_;_
-'Comment
-'Commit 7
-'Commit 8
-'Commit 9
-'Commit 10
-'Commit 11
-
 
 
 WpfWindow("HP MyFlight Sample Application").WpfComboBox("fromCity").Select "Frankfurt" @@ hightlight id_;_2111813992_;_script infofile_;_ZIP::ssf9.xml_;_
